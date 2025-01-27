@@ -15,8 +15,8 @@ Este proyecto es una aplicación de administración de vuelos, donde los adminis
 
 Clona este repositorio en tu máquina local:
 
-git clone https://github.com/karenmoreno17/Prueba-t-cnica.git
-cd Prueba-t-cnica
+git clone https://github.com/karenmoreno17/Prueba-t-cnica.git](https://github.com/karenmoreno17/Prueba.git
+cd Prueba
 
 ### 2. Configuración del Backend
 El backend está construido con Node.js y usa Sequelize como ORM para interactuar con la base de datos PostgreSQL.
